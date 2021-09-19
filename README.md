@@ -22,7 +22,7 @@
 ### Contact with me 📝
 
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://tamerlang.github.io/)
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/tamerlan-gudabayev-042566164/)
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/tamerlan-gudabayev-042566164/)
 
 <br />
 
