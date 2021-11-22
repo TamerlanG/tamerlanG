@@ -4,10 +4,8 @@
 
 ## I'm a Backend Engineer
 
-- 👨‍💻 I’m currently working on development projects using laravel
-- 📚 I’m currently learning everything there is to know on backend 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I enjoy writing, especially [here](https://dev.to/tamerlang).
+- 📚 I’m currently learning computer science from [teachyourselfcs.com](https://teachyourselfcs.com/)
+- ⚡ Fun fact: I enjoy writing, especially [here](https://tamerlan.dev).
 
 ---
 
