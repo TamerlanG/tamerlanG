@@ -15,7 +15,7 @@
 
 [![Spotify](https://novatorem-l6tshczw4-tamerlang.vercel.app/api/spotify.py)](https://open.spotify.com/user/dz7djtkhsrosihnxgc052i3qm)
 
----
+<!-- --- -->
 
 <!-- ### Contact with me 📝
 
