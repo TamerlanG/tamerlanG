@@ -1,8 +1,8 @@
 # Hi there, I'm Tamerlan
 
-## I'm a Backend Engineer with interests in Developer Experience and Platform Engineering 
+## I'm a Software Engineer who likes to build tools for other developers 
 
-- 📚 I’m currently learning computer science from [teachyourselfcs.com](https://teachyourselfcs.com/)
+- I'm currently building a bunch of TUIs. 
 - ⚡ Fun fact: I enjoy writing, especially [here](https://tamerlan.dev).
 
 ---
